@@ -1,0 +1,16 @@
+PODS:
+  - ZMAttributeString (0.1.0)
+
+DEPENDENCIES:
+  - ZMAttributeString (from `../`)
+
+EXTERNAL SOURCES:
+  ZMAttributeString:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZMAttributeString: 3f9ad1a13d92dc7c52da26e131665afb9b31c556
+
+PODFILE CHECKSUM: d8f90f3218bbacfa491056a5022a79b254b781bf
+
+COCOAPODS: 1.9.1

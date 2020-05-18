@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/acct<blob>=0xE4BD95E8AEB8E4BABA/ZMAttributeString'
+  s.homepage         = 'https://github.com/hexuren/ZMAttributeString'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'acct<blob>=0xE4BD95E8AEB8E4BABA' => '529455009@qq.com' }
-  s.source           = { :git => 'https://github.com/acct<blob>=0xE4BD95E8AEB8E4BABA/ZMAttributeString.git', :tag => s.version.to_s }
+  s.author           = { 'hexuren' => '529455009@qq.com' }
+  s.source           = { :git => 'https://github.com/hexuren/ZMAttributeString.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

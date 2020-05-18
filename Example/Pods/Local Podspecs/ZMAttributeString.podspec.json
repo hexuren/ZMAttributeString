@@ -1,0 +1,22 @@
+{
+  "name": "ZMAttributeString",
+  "version": "0.1.0",
+  "summary": "A short description of ZMAttributeString.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/acct<blob>=0xE4BD95E8AEB8E4BABA/ZMAttributeString",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "acct<blob>=0xE4BD95E8AEB8E4BABA": "529455009@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/acct<blob>=0xE4BD95E8AEB8E4BABA/ZMAttributeString.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZMAttributeString/Classes/**/*"
+}

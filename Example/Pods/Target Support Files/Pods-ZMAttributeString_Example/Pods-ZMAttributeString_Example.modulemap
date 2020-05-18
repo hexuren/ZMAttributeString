@@ -1,0 +1,6 @@
+framework module Pods_ZMAttributeString_Example {
+  umbrella header "Pods-ZMAttributeString_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
